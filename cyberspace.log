@@ -1,0 +1,50 @@
+2025-09-17 07:58:01,670 - root - DEBUG - this is debug log
+2025-09-17 07:58:01,670 - root - INFO - this is info log
+2025-09-17 07:58:01,671 - root - WARNING - this is warning log
+2025-09-17 07:58:01,671 - root - ERROR - this is error log
+2025-09-17 07:58:01,671 - root - INFO - the function started
+2025-09-17 07:58:01,671 - root - DEBUG - the even list: []
+2025-09-17 07:58:01,671 - root - INFO - the number is: 1
+2025-09-17 07:58:01,671 - root - INFO - the number is: 2
+2025-09-17 07:58:01,671 - root - INFO - this is even number 2
+2025-09-17 07:58:01,671 - root - INFO - the number is: 3
+2025-09-17 07:58:01,671 - root - INFO - the number is: 4
+2025-09-17 07:58:01,671 - root - INFO - this is even number 4
+2025-09-17 07:58:01,671 - root - INFO - the number is: 5
+2025-09-17 07:58:01,671 - root - INFO - the number is: 6
+2025-09-17 07:58:01,671 - root - INFO - this is even number 6
+2025-09-17 07:58:01,671 - root - INFO - the number is: 7
+2025-09-17 07:58:01,671 - root - INFO - the number is: 8
+2025-09-17 07:58:01,671 - root - INFO - this is even number 8
+2025-09-17 07:58:01,671 - root - INFO - the number is: 9
+2025-09-17 07:58:01,671 - root - INFO - the number is: 10
+2025-09-17 07:58:01,671 - root - INFO - this is even number 10
+2025-09-17 07:58:01,671 - root - INFO - the number is: 11
+2025-09-17 07:58:01,671 - root - INFO - the number is: 12
+2025-09-17 07:58:01,671 - root - INFO - this is even number 12
+2025-09-17 07:58:01,671 - root - INFO - the number is: 13
+2025-09-17 07:58:01,671 - root - INFO - the number is: 14
+2025-09-17 07:58:01,671 - root - INFO - this is even number 14
+2025-09-17 07:58:01,671 - root - INFO - the number is: 15
+2025-09-17 07:58:01,671 - root - INFO - the number is: 16
+2025-09-17 07:58:01,671 - root - INFO - this is even number 16
+2025-09-17 07:58:01,672 - root - INFO - the number is: 17
+2025-09-17 07:58:01,672 - root - INFO - the number is: 18
+2025-09-17 07:58:01,672 - root - INFO - this is even number 18
+2025-09-17 07:58:01,672 - root - INFO - the number is: 19
+2025-09-17 07:58:01,672 - root - INFO - the number is: 20
+2025-09-17 07:58:01,672 - root - INFO - this is even number 20
+2025-09-17 07:58:01,672 - root - INFO - the number is: 21
+2025-09-17 07:58:01,672 - root - INFO - the number is: 22
+2025-09-17 07:58:01,672 - root - INFO - this is even number 22
+2025-09-17 07:58:01,672 - root - INFO - the number is: 23
+2025-09-17 07:58:01,672 - root - INFO - the number is: 24
+2025-09-17 07:58:01,672 - root - INFO - this is even number 24
+2025-09-17 07:58:01,672 - root - INFO - the number is: 25
+2025-09-17 07:58:01,672 - root - INFO - the number is: 26
+2025-09-17 07:58:01,672 - root - INFO - this is even number 26
+2025-09-17 07:58:01,672 - root - INFO - the number is: 27
+2025-09-17 07:58:01,672 - root - INFO - the number is: 28
+2025-09-17 07:58:01,672 - root - INFO - this is even number 28
+2025-09-17 07:58:01,672 - root - INFO - the number is: 29
+2025-09-17 07:58:01,672 - root - INFO - the sum of even is: 210
