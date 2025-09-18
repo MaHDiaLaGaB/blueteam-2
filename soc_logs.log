@@ -1,0 +1,76 @@
+2025-09-17 11:21:56,885 - ERROR - Suspicious activity detected from IP 172.16.0.7
+2025-09-17 11:21:57,385 - INFO - User guest login success from 172.16.0.7
+2025-09-17 11:21:57,886 - ERROR - Suspicious activity detected from IP 198.51.100.22
+2025-09-17 11:21:58,386 - ERROR - Suspicious activity detected from IP 10.0.0.2
+2025-09-17 11:21:58,886 - INFO - User john login success from 192.168.1.5
+2025-09-17 11:21:59,387 - ERROR - Suspicious activity detected from IP 198.51.100.22
+2025-09-17 11:21:59,887 - INFO - User john login success from 172.16.0.7
+2025-09-17 11:22:00,387 - ERROR - Suspicious activity detected from IP 192.168.1.5
+2025-09-17 11:22:00,888 - CRITICAL - Possible DDoS attack from 172.16.0.7
+2025-09-17 11:22:01,388 - CRITICAL - Malware detected on system - source 203.0.113.15
+2025-09-17 11:22:01,888 - INFO - User mohamed login success from 192.168.1.5
+2025-09-17 11:22:02,389 - INFO - User guest login success from 192.168.1.5
+2025-09-17 11:22:02,889 - ERROR - Suspicious activity detected from IP 192.168.1.5
+2025-09-17 11:22:03,390 - WARNING - Failed login attempt for guest from 192.168.1.5
+2025-09-17 11:22:03,890 - CRITICAL - Malware detected on system - source 203.0.113.15
+2025-09-17 11:22:04,390 - ERROR - Suspicious activity detected from IP 172.16.0.7
+2025-09-17 11:22:04,890 - WARNING - Failed login attempt for john from 172.16.0.7
+2025-09-17 11:22:05,391 - WARNING - Failed login attempt for john from 185.99.11.12
+2025-09-17 11:22:05,891 - CRITICAL - Malware detected on system - source 198.51.100.22
+2025-09-17 11:22:06,391 - WARNING - Failed login attempt for root from 192.168.1.5
+2025-09-17 11:22:34,337 - INFO - User guest login success from 198.51.100.22
+2025-09-17 11:22:34,837 - INFO - User admin login success from 203.0.113.15
+2025-09-17 11:22:35,338 - INFO - User mohamed login success from 203.0.113.15
+2025-09-17 11:22:35,838 - INFO - User guest login success from 192.168.1.5
+2025-09-17 11:22:36,338 - INFO - User guest login success from 172.16.0.7
+2025-09-17 11:22:36,839 - INFO - User admin login success from 10.0.0.2
+2025-09-17 11:22:37,339 - CRITICAL - Possible DDoS attack from 185.22.33.44
+2025-09-17 11:22:37,839 - CRITICAL - Possible DDoS attack from 185.99.11.12
+2025-09-17 11:22:38,339 - INFO - User john login success from 10.0.0.2
+2025-09-17 11:22:38,840 - INFO - User root login success from 172.16.0.7
+2025-09-17 11:22:39,340 - CRITICAL - Malware detected on system - source 185.99.11.12
+2025-09-17 11:22:39,840 - WARNING - Failed login attempt for admin from 172.16.0.7
+2025-09-17 11:22:40,341 - INFO - User admin login success from 172.16.0.7
+2025-09-17 11:22:40,841 - WARNING - Failed login attempt for eslam from 192.168.1.5
+2025-09-17 11:22:41,341 - CRITICAL - Malware detected on system - source 10.0.0.2
+2025-09-17 11:22:41,842 - CRITICAL - Malware detected on system - source 185.22.33.44
+2025-09-17 11:22:42,342 - ERROR - Suspicious activity detected from IP 172.16.0.7
+2025-09-17 11:22:42,842 - ERROR - Suspicious activity detected from IP 192.168.1.5
+2025-09-17 11:22:43,343 - WARNING - Failed login attempt for eslam from 203.0.113.15
+2025-09-17 11:22:43,843 - CRITICAL - Malware detected on system - source 198.51.100.22
+2025-09-17 11:22:44,344 - CRITICAL - Possible DDoS attack from 10.0.0.2
+2025-09-17 11:22:44,844 - CRITICAL - Malware detected on system - source 185.99.11.12
+2025-09-17 11:22:45,344 - INFO - User admin login success from 10.0.0.2
+2025-09-17 11:22:45,844 - ERROR - Suspicious activity detected from IP 198.51.100.22
+2025-09-17 11:22:46,345 - WARNING - Failed login attempt for eslam from 185.99.11.12
+2025-09-17 11:22:46,845 - WARNING - Failed login attempt for admin from 203.0.113.15
+2025-09-17 11:22:47,345 - CRITICAL - Possible DDoS attack from 172.16.0.7
+2025-09-17 11:22:47,846 - CRITICAL - Possible DDoS attack from 172.16.0.7
+2025-09-17 11:22:48,346 - ERROR - Suspicious activity detected from IP 198.51.100.22
+2025-09-17 11:22:48,847 - CRITICAL - Possible DDoS attack from 185.22.33.44
+2025-09-17 11:22:49,348 - CRITICAL - Possible DDoS attack from 203.0.113.15
+2025-09-17 11:22:49,848 - CRITICAL - Malware detected on system - source 198.51.100.22
+2025-09-17 11:22:50,349 - INFO - User root login success from 203.0.113.15
+2025-09-17 11:22:50,849 - ERROR - Suspicious activity detected from IP 172.16.0.7
+2025-09-17 11:22:51,349 - INFO - User root login success from 10.0.0.2
+2025-09-17 11:22:51,850 - ERROR - Suspicious activity detected from IP 192.168.1.5
+2025-09-17 11:22:52,350 - ERROR - Suspicious activity detected from IP 185.99.11.12
+2025-09-17 11:22:52,850 - ERROR - Suspicious activity detected from IP 185.99.11.12
+2025-09-17 11:22:53,351 - CRITICAL - Malware detected on system - source 185.22.33.44
+2025-09-17 11:22:53,851 - ERROR - Suspicious activity detected from IP 198.51.100.22
+2025-09-17 11:22:54,351 - WARNING - Failed login attempt for john from 203.0.113.15
+2025-09-17 11:22:54,852 - ERROR - Suspicious activity detected from IP 203.0.113.15
+2025-09-17 11:22:55,352 - CRITICAL - Malware detected on system - source 172.16.0.7
+2025-09-17 11:22:55,852 - INFO - User eslam login success from 203.0.113.15
+2025-09-17 11:22:56,352 - ERROR - Suspicious activity detected from IP 203.0.113.15
+2025-09-17 11:22:56,853 - WARNING - Failed login attempt for eslam from 198.51.100.22
+2025-09-17 11:22:57,353 - WARNING - Failed login attempt for john from 192.168.1.5
+2025-09-17 11:22:57,853 - ERROR - Suspicious activity detected from IP 10.0.0.2
+2025-09-17 11:22:58,354 - CRITICAL - Malware detected on system - source 192.168.1.5
+2025-09-17 11:22:58,854 - CRITICAL - Malware detected on system - source 172.16.0.7
+2025-09-17 11:22:59,354 - INFO - User john login success from 198.51.100.22
+2025-09-17 11:22:59,855 - CRITICAL - Malware detected on system - source 185.99.11.12
+2025-09-17 11:23:00,355 - CRITICAL - Possible DDoS attack from 192.168.1.5
+2025-09-17 11:23:00,855 - CRITICAL - Malware detected on system - source 10.0.0.2
+2025-09-17 11:23:01,356 - ERROR - Suspicious activity detected from IP 185.99.11.12
+2025-09-17 11:23:01,856 - ERROR - Suspicious activity detected from IP 185.99.11.12
